@@ -1,2 +1,2 @@
 # ASP-paradigm
-Suit with the elephant !
+Suit-up with the elephant !
