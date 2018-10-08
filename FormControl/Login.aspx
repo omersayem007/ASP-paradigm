@@ -14,7 +14,7 @@
             Password :<input type="password" name="password" value=""/><br /><br />
             Remember me ? <input type="checkbox" name="rem" /><br />
             <button type="submit">Login</button>
-            <button><a href="Registration.php">Register ?</a></button>
+            <button><a href="Registration.aspx">Register ?</a></button>
             <a href="forget.aspx">Forget password ?</a>
     </fieldset>
     </form>

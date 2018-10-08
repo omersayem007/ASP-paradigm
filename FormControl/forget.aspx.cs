@@ -24,6 +24,7 @@ public partial class forget : System.Web.UI.Page
                 if (name.Equals(row[1]) )
                 {
                     isValid = "valid";
+                    Session["name"] = row[1];
 
                 }
             }
